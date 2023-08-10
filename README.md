@@ -1,2 +1,2 @@
 # Notes
-A simple php based project named notes where we can do CRUD(create,read,upload and delete) operations.
+The "Notes" project is a straightforward PHP application designed to help users manage their personal notes effectively. It provides essential CRUD functionality, enabling users to create, read, update, and delete notes. The project incorporates a user-friendly interface that allows users to interact with their notes effortlessly.
